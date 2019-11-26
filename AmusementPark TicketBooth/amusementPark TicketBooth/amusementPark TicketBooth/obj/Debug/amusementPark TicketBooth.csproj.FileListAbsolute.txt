@@ -1,0 +1,9 @@
+c:\users\rain\documents\visual studio 2013\Projects\amusementPark TicketBooth\amusementPark TicketBooth\bin\Debug\amusementPark TicketBooth.exe.config
+c:\users\rain\documents\visual studio 2013\Projects\amusementPark TicketBooth\amusementPark TicketBooth\bin\Debug\amusementPark TicketBooth.exe
+c:\users\rain\documents\visual studio 2013\Projects\amusementPark TicketBooth\amusementPark TicketBooth\bin\Debug\amusementPark TicketBooth.pdb
+c:\users\rain\documents\visual studio 2013\Projects\amusementPark TicketBooth\amusementPark TicketBooth\obj\Debug\amusementPark TicketBooth.csprojResolveAssemblyReference.cache
+c:\users\rain\documents\visual studio 2013\Projects\amusementPark TicketBooth\amusementPark TicketBooth\obj\Debug\amusementPark_TicketBooth.Form1.resources
+c:\users\rain\documents\visual studio 2013\Projects\amusementPark TicketBooth\amusementPark TicketBooth\obj\Debug\amusementPark_TicketBooth.Properties.Resources.resources
+c:\users\rain\documents\visual studio 2013\Projects\amusementPark TicketBooth\amusementPark TicketBooth\obj\Debug\amusementPark TicketBooth.csproj.GenerateResource.Cache
+c:\users\rain\documents\visual studio 2013\Projects\amusementPark TicketBooth\amusementPark TicketBooth\obj\Debug\amusementPark TicketBooth.exe
+c:\users\rain\documents\visual studio 2013\Projects\amusementPark TicketBooth\amusementPark TicketBooth\obj\Debug\amusementPark TicketBooth.pdb
